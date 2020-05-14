@@ -11,7 +11,8 @@
     "typescript": "^3.9.2"
   },
   "scripts": {
-    "transform": "ttsc"
+    "transform": "ttsc",
+    "transform1": "npx ttsc"
   },
   "repository": {
     "type": "git",
